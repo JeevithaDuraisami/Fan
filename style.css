@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+button{
+    height: 40px;
+    width: 120px;
+    background-color: orange;
+    color: white
+}
+button:hover{
+    cursor: pointer;
+    background-color: white;
+    color: black;
+}
+.dark{
+    background-color: palegoldenrod;
+    color: red;
+}
+.light{
+    background-color: papayawhip;
+    color: black;
+}
